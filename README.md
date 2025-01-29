@@ -4,7 +4,7 @@ Este repositório contém o meu currículo profissional, atualizado regularmente
 
 ## Estrutura do Repositório
 
-- [**Currículo.pdf**]: Versão em PDF do meu currículo.
+- **Currículo.pdf**: Versão em PDF do meu currículo.
 
 ---
 
