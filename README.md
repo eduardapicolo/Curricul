@@ -4,7 +4,7 @@ Este repositório contém o meu currículo profissional, atualizado regularmente
 
 ## Estrutura do Repositório
 
-- [**Currículo.pdf**](Eduarda%20Picolo%20Barboza.pdf): Versão em PDF do meu currículo.
+- [**Currículo.pdf**](Currículo Eduarda Picolo Barboza .pdf): Versão em PDF do meu currículo.
 
 ---
 
